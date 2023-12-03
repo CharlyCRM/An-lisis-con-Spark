@@ -14,3 +14,6 @@ Este repositorio contiene los análisis DataSciencie realizados sobre diferentes
   
   Analisis exploratorio sobre diferentes valores bursatiles y su tendencia en el mercado de valores
   
+![CleanShot 2023-12-03 at 12 15 48@2x](https://github.com/CharlyCRM/DataSciencie-con-Spark/assets/136794111/84af3c26-7692-430e-848d-df23c956a50d)
+
+![CleanShot 2023-12-03 at 12 16 27@2x](https://github.com/CharlyCRM/DataSciencie-con-Spark/assets/136794111/9c3a3418-12b1-4a7d-b3eb-0c764c0d0b88)
