@@ -17,3 +17,9 @@ Este repositorio contiene los análisis DataSciencie realizados sobre diferentes
 ![CleanShot 2023-12-03 at 12 15 48@2x](https://github.com/CharlyCRM/DataSciencie-con-Spark/assets/136794111/84af3c26-7692-430e-848d-df23c956a50d)
 
 ![CleanShot 2023-12-03 at 12 16 27@2x](https://github.com/CharlyCRM/DataSciencie-con-Spark/assets/136794111/9c3a3418-12b1-4a7d-b3eb-0c764c0d0b88)
+
+- **Análisis Hipótesis A/B - Prueba t student**
+  
+  Analizo la cotización de apertura para un valor bursátil. Comparando El periodo inicial del 2021 con el periodo final a fin de determinar cuando es mejor realizar la inversión
+
+  ![CleanShot 2023-12-15 at 12 27 14@2x](https://github.com/CharlyCRM/DataSciencie-con-Spark/assets/136794111/048041ed-df31-408c-867e-97b4992f0f57)
